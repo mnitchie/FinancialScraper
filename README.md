@@ -15,4 +15,5 @@ python3 -m venv env
 ```
 
 ## TODOs
--[] Make it into a command-line executable
+- [] You are getting an extraneous result per row. Make sure that isn't getting in there (I think it's a bug with last_row_index)
+- [] Allow inputting the date for which you want to get the account balances
